@@ -1,0 +1,9 @@
+# Private QA evaluation artifacts
+**/holdouts/
+**/holdout-scenarios/
+**/holdouts.private.md
+
+# Local environment secrets
+.env
+.env.*
+!.env.example
